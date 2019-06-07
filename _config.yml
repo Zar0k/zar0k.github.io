@@ -1,18 +1,19 @@
+
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Zarok
+description: 'Software Engineer'
+url: 'https://zar0k.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Oscar Rodriguez'
+  email: hello@zarok.io
+  twitter_username: hdZarok
+  #facebook_username: 
+  github_username:  Zar0k
+  #linkedin_username:
 
 defaults:
   -
